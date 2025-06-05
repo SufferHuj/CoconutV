@@ -6,5 +6,5 @@ assert 1 == 1
 "zaebal you"
 
 int_1 = 777 + 66
-str = "whats are we doing?"
+str = "whats are we doing___1"
 print(int_1)
