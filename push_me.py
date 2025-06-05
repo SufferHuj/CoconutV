@@ -5,3 +5,5 @@ assert 1 == 1
 
 
 "это дурка я дерую"
+
+"zaebal tiii"
