@@ -5,5 +5,5 @@ assert 1 == 1
 
 "zaebal you"
 
-int_1 = 777 + 55
+int_1 = 777 + 66
 print(int_1)
