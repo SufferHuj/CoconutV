@@ -6,4 +6,5 @@ assert 1 == 1
 "zaebal you"
 
 int_1 = 777 + 66
+str = "Fuck u"
 print(int_1)
